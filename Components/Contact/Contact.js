@@ -2,7 +2,7 @@ import React,{useState} from 'react'
 
 
 import HrComponent from '../HrComponent/HrComponent'
-import toast from 'react-toastify'
+import { toast } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css';  
 import axios from 'axios';
 export const Contact = () => {
