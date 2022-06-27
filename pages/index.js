@@ -2,10 +2,10 @@ import HomeComp from '../Components/Home/Home';
 import Seo from '../Components/Seo/Seo';
 import React from 'react'
 import {ButtonBlueComponent  } from "../Components/Button/Link/ButtonBlueComponent";
-import { ButtonGradientComponent } from "../Components/Button/Link/ButtonGradientComponent";
+
 import About from '../Components/About.js/About';
 import { Contact } from "../Components/Contact/Contact";
-import Link from 'next/link'
+
 
 export default function Home() {
   
