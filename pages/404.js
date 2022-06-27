@@ -1,6 +1,6 @@
 import React from 'react'
 import { ButtonBlueComponent } from '../Components/Button/Link/ButtonBlueComponent'
-import '../../styles/global.css'
+
  const ErrorPage = () => {
   return (
       <>
